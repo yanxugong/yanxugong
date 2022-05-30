@@ -1,7 +1,7 @@
 ### Hi 👋 welcome, you can also find me from the following places.
 
 - [juejin.cn](https://juejin.cn/user/958429872534056/posts)
-- [My Blog（developing...）](https://yanxugong.github.io/blog/)
+- [My Blog（developing...）](https://yanxugong.github.io/blog-next/)
 
 **Languages and Tools:**  
 
