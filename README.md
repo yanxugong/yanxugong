@@ -12,4 +12,6 @@
 
 You can't stop the waves, but you can learn to surf.
 
+**Github Stats:**  
+
 ![yanxugong's github activity graph](https://raw.githubusercontent.com/yanxugong/yanxugong/output/github-contribution-grid-snake.svg)
